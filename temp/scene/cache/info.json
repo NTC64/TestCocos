@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz",
+        "version": "Windows 10 Home"
+    },
+    "sceneListMap": {
+        "9f630c0a-9bc7-4987-ac1c-184a40e691c7": "D:\\Creator\\source\\Test\\assets\\scene.scene"
+    },
+    "deviceMd5": "b3f33066223deaed4d3952ed329bd5a0"
+}

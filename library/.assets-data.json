@@ -1,0 +1,263 @@
+{
+  "1ed74272-5ecb-4203-9cd9-59542c011799": {
+    "url": "db://assets/biControl.ts",
+    "value": {}
+  },
+  "f7a74832-95e0-4d39-85e8-41d912257c45": {
+    "url": "db://assets/images",
+    "value": {}
+  },
+  "fdc532ea-7aac-4009-8124-c188acdf8a1a": {
+    "url": "db://assets/images/circle.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9de4062-dbf2-493d-8a08-305082ccd7a1": {
+    "url": "db://assets/images/line.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1dfc9a20-235a-4c22-9839-f0a8ac1968e8": {
+    "url": "db://assets/images/play_button.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "60302bd1-369f-4f0e-8b95-05a84564ec54": {
+    "url": "db://assets/images/replay_button.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e7a3b7d4-aeb5-4a44-b15f-e5da1b165413": {
+    "url": "db://assets/images/square.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e7a3b7d4-aeb5-4a44-b15f-e5da1b165413@6c48a": {
+    "url": "db://assets/images/square.png@6c48a",
+    "value": {
+      "depends": [
+        "e7a3b7d4-aeb5-4a44-b15f-e5da1b165413"
+      ]
+    }
+  },
+  "60302bd1-369f-4f0e-8b95-05a84564ec54@6c48a": {
+    "url": "db://assets/images/replay_button.png@6c48a",
+    "value": {
+      "depends": [
+        "60302bd1-369f-4f0e-8b95-05a84564ec54"
+      ]
+    }
+  },
+  "fdc532ea-7aac-4009-8124-c188acdf8a1a@6c48a": {
+    "url": "db://assets/images/circle.png@6c48a",
+    "value": {
+      "depends": [
+        "fdc532ea-7aac-4009-8124-c188acdf8a1a"
+      ]
+    }
+  },
+  "a9de4062-dbf2-493d-8a08-305082ccd7a1@6c48a": {
+    "url": "db://assets/images/line.png@6c48a",
+    "value": {
+      "depends": [
+        "a9de4062-dbf2-493d-8a08-305082ccd7a1"
+      ]
+    }
+  },
+  "1dfc9a20-235a-4c22-9839-f0a8ac1968e8@6c48a": {
+    "url": "db://assets/images/play_button.png@6c48a",
+    "value": {
+      "depends": [
+        "1dfc9a20-235a-4c22-9839-f0a8ac1968e8"
+      ]
+    }
+  },
+  "e7a3b7d4-aeb5-4a44-b15f-e5da1b165413@f9941": {
+    "url": "db://assets/images/square.png@f9941",
+    "value": {
+      "depends": [
+        "e7a3b7d4-aeb5-4a44-b15f-e5da1b165413@6c48a"
+      ]
+    }
+  },
+  "fdc532ea-7aac-4009-8124-c188acdf8a1a@f9941": {
+    "url": "db://assets/images/circle.png@f9941",
+    "value": {
+      "depends": [
+        "fdc532ea-7aac-4009-8124-c188acdf8a1a@6c48a"
+      ]
+    }
+  },
+  "60302bd1-369f-4f0e-8b95-05a84564ec54@f9941": {
+    "url": "db://assets/images/replay_button.png@f9941",
+    "value": {
+      "depends": [
+        "60302bd1-369f-4f0e-8b95-05a84564ec54@6c48a"
+      ]
+    }
+  },
+  "a9de4062-dbf2-493d-8a08-305082ccd7a1@f9941": {
+    "url": "db://assets/images/line.png@f9941",
+    "value": {
+      "depends": [
+        "a9de4062-dbf2-493d-8a08-305082ccd7a1@6c48a"
+      ]
+    }
+  },
+  "1dfc9a20-235a-4c22-9839-f0a8ac1968e8@f9941": {
+    "url": "db://assets/images/play_button.png@f9941",
+    "value": {
+      "depends": [
+        "1dfc9a20-235a-4c22-9839-f0a8ac1968e8@6c48a"
+      ]
+    }
+  },
+  "3ccad805-4784-48d9-acaa-ea5dc1120a56": {
+    "url": "db://assets/fonts",
+    "value": {}
+  },
+  "0d44e143-2dcd-415d-8221-594bb711da8b": {
+    "url": "db://assets/fonts/Schluber.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "3aa5099c-a76a-43e8-aebd-c373d2d56f9b": {
+    "url": "db://assets/square.ts",
+    "value": {}
+  },
+  "a91b7519-1f3c-4425-9784-0ea7356082d0": {
+    "url": "db://assets/canvas.ts",
+    "value": {}
+  },
+  "06e1268b-8102-4373-8c2b-64ba34828d66": {
+    "url": "db://assets/AnimationGraphComponent.ts",
+    "value": {}
+  },
+  "4e51a658-462a-4058-8de3-39310872e8cf": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "df2d7a06-5c66-43fc-bb72-01603d91a6fc": {
+    "url": "db://assets/script/custom-render-flow.ts",
+    "value": {}
+  },
+  "db4d6551-9a73-49a9-b914-72ab65f48fdf": {
+    "url": "db://assets/script/square.ts",
+    "value": {}
+  },
+  "50951d44-9d3f-40ff-afb7-20fc2f209ea6": {
+    "url": "db://assets/script/circle.ts",
+    "value": {}
+  },
+  "af1a83c9-205b-4e92-a1e3-5b59152ec097": {
+    "url": "db://assets/NewComponent.ts",
+    "value": {}
+  },
+  "538f24c0-15ce-4c2a-8462-24df06a602e3": {
+    "url": "db://assets/script/scene.ts",
+    "value": {}
+  },
+  "10f8a8be-e5cb-4b4e-a8b2-db69b631b7fc": {
+    "url": "db://assets/square.prefab",
+    "value": {}
+  },
+  "d2c5c2e1-be34-46b5-9e48-7b009bf28174": {
+    "url": "db://assets/script/square.prefab",
+    "value": {
+      "depends": [
+        "e7a3b7d4-aeb5-4a44-b15f-e5da1b165413@f9941"
+      ],
+      "dependScripts": [
+        "db4d6551-9a73-49a9-b914-72ab65f48fdf"
+      ]
+    }
+  },
+  "c77c5f75-2e33-4c73-af46-7be01df0502c": {
+    "url": "db://assets/script/collision.ts",
+    "value": {}
+  },
+  "9f630c0a-9bc7-4987-ac1c-184a40e691c7": {
+    "url": "db://assets/scene.scene",
+    "value": {
+      "depends": [
+        "9f630c0a-9bc7-4987-ac1c-184a40e691c7",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "a9de4062-dbf2-493d-8a08-305082ccd7a1@f9941",
+        "fdc532ea-7aac-4009-8124-c188acdf8a1a@f9941",
+        "97bf0dce-bfd0-46f2-984a-ba3f1106d18a",
+        "9f6d369f-7e7a-4129-a7f1-e1992da722a8",
+        "2420d7bd-fd49-4fed-b582-dcb201a4a22d",
+        "cdcdc60b-2934-4994-96ad-64545688f8cd",
+        "90c9818b-b8ff-464c-95f2-7ed092f209e8",
+        "9a148c7b-95bf-4ab9-acbd-583e73c9c30c",
+        "0d44e143-2dcd-415d-8221-594bb711da8b",
+        "60302bd1-369f-4f0e-8b95-05a84564ec54@f9941",
+        "d2c5c2e1-be34-46b5-9e48-7b009bf28174",
+        "1dfc9a20-235a-4c22-9839-f0a8ac1968e8@f9941",
+        "c77ecaa8-c936-46c4-a5b0-98692673ed87"
+      ],
+      "dependScripts": [
+        "50951d44-9d3f-40ff-afb7-20fc2f209ea6",
+        "4e7d9f2f-0519-4c99-84d4-696439825055",
+        "c77c5f75-2e33-4c73-af46-7be01df0502c",
+        "538f24c0-15ce-4c2a-8462-24df06a602e3",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "7b9e853e-c57c-402d-9370-6afb7c28262f"
+      ]
+    }
+  },
+  "7b9e853e-c57c-402d-9370-6afb7c28262f": {
+    "url": "db://assets/script/play.ts",
+    "value": {}
+  },
+  "ab1fb742-dbe7-4066-b186-e36e97ac21e2": {
+    "url": "db://assets/sounds",
+    "value": {}
+  },
+  "97bf0dce-bfd0-46f2-984a-ba3f1106d18a": {
+    "url": "db://assets/sounds/button.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a148c7b-95bf-4ab9-acbd-583e73c9c30c": {
+    "url": "db://assets/sounds/explode.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "9f6d369f-7e7a-4129-a7f1-e1992da722a8": {
+    "url": "db://assets/sounds/move.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdcdc60b-2934-4994-96ad-64545688f8cd": {
+    "url": "db://assets/sounds/new_best.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "2420d7bd-fd49-4fed-b582-dcb201a4a22d": {
+    "url": "db://assets/sounds/point.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "90c9818b-b8ff-464c-95f2-7ed092f209e8": {
+    "url": "db://assets/sounds/rebound.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "4e7d9f2f-0519-4c99-84d4-696439825055": {
+    "url": "db://assets/script/sounds.ts",
+    "value": {}
+  }
+}
